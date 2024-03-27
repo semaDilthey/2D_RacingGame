@@ -7,3 +7,4 @@
 - CoreData
 - GCD
 - AutoLayout, SnapKit
+- Lottie
