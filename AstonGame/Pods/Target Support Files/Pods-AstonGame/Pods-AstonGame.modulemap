@@ -1,0 +1,6 @@
+module Pods_AstonGame {
+  umbrella header "Pods-AstonGame-umbrella.h"
+
+  export *
+  module * { export * }
+}
